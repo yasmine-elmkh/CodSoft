@@ -20,4 +20,4 @@ The model was trained on a dataset of handwritten text samples, enabling it to g
 and documentation for all these tasks in this repository.
 
 
-author : Wafae Bouajaja
+Author : Yasmine EL Mkhantar
